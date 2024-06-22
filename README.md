@@ -18,7 +18,7 @@ Current features and potential applications include:
 
 ## How to Use the Application
 
-Access the application through this link: Pencil Vision on Hugging Face Spaces.
+Access the application through this link: [Pencil Vision](https://huggingface.co/spaces/GastinoKuros/Pencil-Vision)
 
 ## Tips for Best Results
 1) Be Specific and Detailed: The more specific and detailed your prompt, the better the generated image will match your expectations.
