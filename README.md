@@ -1,6 +1,6 @@
 # Pencil Vision: Text-to-Image Generator
 
-Pencil Vision is a small and basic Text-to-Image generator application with basic modification options. It utilizes two open-source models, "sdxl-flash" and "sdxl-lightning," via API calls.
+Pencil Vision is a small and basic Text-to-Image generator application with basic modification options. It utilizes two text-to-image models, "sdxl-flash" and "sdxl-lightning," via API calls.
 
 ## Overview
 
