@@ -4,7 +4,7 @@ Pencil Vision is a small and basic Text-to-Image generator application with basi
 
 ## Overview
 
-This application is built using Gradio along with open-source models such as "sdxl-flash" from the sd-community and "SDXL-Lightning" via API calls. The code serves as a simple demonstration of how these powerful and fast models can be utilized through API calls (if provided on their model cards) to create something useful for the public.
+This application is built using Gradio along with text-to-image models such as "sdxl-flash" from the sd-community and "SDXL-Lightning" via API calls. The code serves as a simple demonstration of how these powerful and fast models can be utilized through API calls (if provided on their model cards) to create something useful for the public.
 
 Pencil Vision is a part of a larger project I am working on. In the meantime, you can test the accuracy and precision of this app using the Gradio public link below. Since the heavy lifting is done via API calls, feel free to share your wonderful ideas on what can be achieved with text-to-image models.
 
